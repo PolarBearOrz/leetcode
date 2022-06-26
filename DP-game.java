@@ -1,5 +1,6 @@
 // lintcode 394
 // https://www.lintcode.com/submission/29262469/?action_type=1
+// 博奕dp
 
 public class Solution {
     /**
